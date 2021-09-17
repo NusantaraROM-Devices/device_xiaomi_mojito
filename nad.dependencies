@@ -8,7 +8,7 @@
     "remote":      "github",
     "repository":  "venom-stark/kernel_xiaomi_mojito",
     "target_path": "kernel/xiaomi/mojito",
-    "branch":      "R"
+    "branch":      "R-gcc"
   },
   {
     "remote":      "github",
