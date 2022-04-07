@@ -9,5 +9,23 @@
     "repository":  "PixelExperience-Devices/kernel_xiaomi_mojito",
     "target_path": "kernel/xiaomi/mojito",
     "branch":      "eleven"
+  },
+  {
+    "remote":"github",
+    "repository":"PixelExperience/hardware_qcom-caf_sm8150_display",
+    "target_path":"hardware/qcom-caf/sm8150/display",
+    "branch":"eleven"
+  },
+  {
+    "remote":"github",
+    "repository":"PixelExperience/hardware_qcom-caf_sm8150_audio",
+    "target_path":"hardware/qcom-caf/sm8150/audio",
+    "branch":"eleven"
+  },
+  {
+    "remote":"github",
+    "repository":"PixelExperience/hardware_qcom-caf_sm8150_media",
+    "target_path":"hardware/qcom-caf/sm8150/media",
+    "branch":"eleven"
   }
 ]
